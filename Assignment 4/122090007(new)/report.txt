@@ -1,0 +1,13 @@
+Question 1
+1.This code is saved in 122090007_q1.py
+2.This program allows the user to input a reference pointing to 
+the first node of the linked list and output the number of nodes 
+in that linked list.
+
+Question 2
+1.This code is save in 122090007_q2.py
+2.This program can sorted data into the ascending order
+
+Question 3
+1.This code is save in 122090007_q3.py
+2.This program will print out the steps to move all the disks from rod A to rod C via rod B in Tower of Hanoi.

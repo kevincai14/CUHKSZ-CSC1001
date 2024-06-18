@@ -1,0 +1,36 @@
+Question 1
+1.This code is saved in 122090007_q1.py
+2.This program allows the user to approximate the square root
+3.Execute as followings:
+The output of q1.png
+
+Question 2
+1.This code is save in 122090007_q2.py
+2.This program displays the first 100 emirps
+3.Execute as followings:
+The output of q2.png
+
+Question 3
+1.This code is save in 122090007_q3.py
+2.This program display whether the number is valid or invalid
+3.Execute as followings:
+The output of q3.png
+
+Question 4
+1.This code is saved in 122090007_q4.py
+2.This program allows the user to enter two strings and, if they are anagrams, displays is an anagram; otherwise, it displays is not an anagram
+3.Execute as followings:
+The output of q4.png
+
+Question 5
+1.This code is saved in 122090007_q5.py
+2.This program find the answer of locker puzzle
+3.Execute as followings:
+The output of q5.png
+
+Question 6
+1.This code is saved in 122090007_q6.py
+2.This is a program displays one solution of Eight Queens
+3.Execute as followings:
+*when it successfully try out the solution: 
+The output of q6.png

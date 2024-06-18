@@ -1,0 +1,19 @@
+Question 1
+1.This code is saved in 122090007_q1.py
+2.This program allows the user to set thename of the flower, its number of petals, and its price
+setting the value of each type, and retrieving the value of each type.
+
+Question 2
+1.This code is save in 122090007_q2.py
+2.This program allows the user to input a polynomial in standard algebraic notation and outputs 
+the first derivative of that polynomial.
+
+Question 3
+1.This code is save in 122090007_q3.py
+2.This program simulate an ecosystem containing two types of creatures. In each time 
+step, based on a random process, each animal either attempts to move into an adjacent 
+list location or stay where it is. If two animals of the same type are about to collide in 
+the same cell, then they stay where they are, but they create a new instance of that 
+type of animal, which is placed in a random empty location in the 
+list (if there is no empty location in the list, the newly generated animal will be 
+discarded). If a bear and a fish collide, however, then the fish dies.
